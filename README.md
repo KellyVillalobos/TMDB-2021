@@ -1,6 +1,6 @@
 # About
 
-TMDB was a startup project I did for a military contract to update an Apache Struts based application to an Angular and Spring RESTful API based application. This project was built as an exercise in group development. In the end we build a partially functioning movie database that pulled movie data from a public movie API and developed an interface with features like a carousel, individual movie cards and table with breadcrumbs.
+TMDB was a startup project I did for a military contract to update an Apache Struts based application to an Angular and Spring RESTful API based application. This project was built as an exercise in group development. In the end we built a partially functioning movie database that pulled movie data from a public movie API and developed an interface with features like a carousel, individual movie cards and table with breadcrumbs.
 
 # TMDB
 
