@@ -1,3 +1,7 @@
+# About
+
+TMDB was a startup project I did for a military contract to update an Apache Struts based application to an Angular and Spring API based application. This project was built as an exercise in group development. In the end we build a partially functioning movie database that pulled movie data from a public movie API and developed an interface with features like a carousel, individual movie cards and table with breadcrumbs.
+
 # TMDB
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.1.
